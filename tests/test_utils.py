@@ -1,4 +1,4 @@
-from your_project.utils import add
+from ai_project.utils import add
 
 
 def test_add():
