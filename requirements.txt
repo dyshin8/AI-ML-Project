@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+jupyter
+pytest
+black
+isort
+mypy
+ipykernel
